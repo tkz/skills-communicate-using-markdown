@@ -6,3 +6,7 @@ Yaktocat says Hi!
 ``` javascript
 var myVar = "Hello, world!";
 ```
+## Things for Yaktocat to do
+- [x] Be awesome!
+- [ ] Turn on GitHub Pages
+- [ ] Introduce myself to the world
